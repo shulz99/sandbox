@@ -1,3 +1,3 @@
 <?php
 echo "new era is comming";
-echo "great!1";
+echo "I am the renewed";
